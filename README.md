@@ -44,11 +44,11 @@ This study aims to integrate **network pharmacology**, **bioinformatics**, and *
 ## 👩‍🔬 Authors
 
 **Aline Felicio**  
-Undergraduate Student in Biomedical Sciences – São Francisco University (USF)  
+Graduated in Biomedical Sciences – São Francisco University (USF)
 
 **Nicolly Clemente de Melo**  
 Graduate Program in Health Sciences – São Francisco University (USF)
 
 **Lucas Miguel de Carvalho**  
-Graduate Program in Health Sciences – São Francisco University (USF)
+Postgraduate Program in Health Sciences – São Francisco University (USF)
 
