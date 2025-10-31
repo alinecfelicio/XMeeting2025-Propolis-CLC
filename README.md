@@ -47,7 +47,7 @@ This study aims to integrate **network pharmacology**, **bioinformatics**, and *
 Graduated in Biomedical Sciences – São Francisco University (USF)
 
 **Nicolly Clemente de Melo**  
-Graduate Program in Health Sciences – São Francisco University (USF)
+Postgraduate Program in Health Sciences – São Francisco University (USF)
 
 **Lucas Miguel de Carvalho**  
 Postgraduate Program in Health Sciences – São Francisco University (USF)
